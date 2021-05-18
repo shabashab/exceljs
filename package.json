@@ -1,6 +1,6 @@
 {
   "name": "@shabashab/exceljs",
-  "version": "4.2.3",
+  "version": "4.2.5",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
   "private": false,
   "license": "MIT",
