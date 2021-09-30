@@ -1,6 +1,6 @@
 {
   "name": "@xlsx-model/excel",
-  "version": "4.3.2",
+  "version": "4.3.3",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files. (Fork)",
   "license": "MIT",
   "author": {
